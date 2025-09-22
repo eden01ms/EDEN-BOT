@@ -16,7 +16,100 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️",
+    "BOTNAME": "তগো ভাইয়া ইডেন আমি",
+    "PREFIX": "#",
+    "ADMINBOT": [
+        "61559263811903",
+        "",
+        ""
+    ],
+    "NDH": [
+        "100000478146113"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLeve",
+    "ADMINBOT": [
+        "100000478146113",
+        "61576520552554",
+   iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
+    },
+    "version": "1.2.14",
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "cave": {
+        "cooldownTime": 2000000
+    },
+    "checktt": {
+        "maxColumn": 300
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 1000
+    },
+    "diemdanh": {
+        "cooldownTim61559263811903e": 3000000
+    },
+    "gif": {
+        "TENOR": "73YIAOY3ACT1"
+    },
+    "instagram": {
+        "APIKEY": "81b0466275mshb5265735e50299cp1b01c5jsn3e7f93112fd3"
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 55
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 10
+    },
+    "rname": {
+        "APIKEY": "mi45126619061550035211214"
+    ],
+    "NDH": [
+        "100000478146113"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLeve",
+    "ADMINBOT": [
+        "100000478146113",
+        "61576520552554",
+        "61550035211214"
+    ],
+    "NDH": [
+        "100000478146113"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEv",
     "PREFIX": "/",
     "ADMINBOT": [
         "100000478146113",
